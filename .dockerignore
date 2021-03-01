@@ -1,0 +1,6 @@
+.git
+.bundle
+.vscode
+.gitignore
+*.sql
+tables/*

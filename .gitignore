@@ -1,0 +1,4 @@
+*.sql
+.vscode
+tables/*
+config/*
