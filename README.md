@@ -16,6 +16,7 @@
     ```
     docker build -t pg_obfuscator .
     ```
+2. Or just use pre-built: https://hub.docker.com/r/foobarengineering/pg_obfuscator
 
 # Usage
 _Warning!_ All commands must be executed from the root directory of the application.
